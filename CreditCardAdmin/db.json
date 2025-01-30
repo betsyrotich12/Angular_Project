@@ -1,0 +1,52 @@
+{
+    "creditcard": [
+        {
+            "id":1,
+            "cardName":"Bank of America Credit Card",
+            "bankName":"Bank of America",
+            "description":"This is the Bank of America Credit Card",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0,
+            "interestRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"27-01-2025",
+            "termsAndConditions":"The following conditions are valid for this card!"
+
+        },
+        {
+            "id":2,
+            "cardName":"Bank of Africa Credit Card",
+            "bankName":"Bank of Africa",
+            "description":"This is the Bank of Africa Credit Card",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0,
+            "interestRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"27-01-2025",
+            "termsAndConditions":"The following conditions are valid for this card!"
+
+        },
+        {
+            "id":3,
+            "cardName":"Bank of Asia Credit Card",
+            "bankName":"Bank of Asia",
+            "description":"This is the Bank of Asia Credit Card",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0,
+            "interestRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"27-01-2025",
+            "termsAndConditions":"The following conditions are valid for this card!"
+
+        }
+    ]
+}
